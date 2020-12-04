@@ -194,6 +194,7 @@ img {
 /*  ========РАБОТА======== */
 .work .container {
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .work-list {
