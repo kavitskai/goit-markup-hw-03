@@ -72,6 +72,7 @@ img {
 .header .container {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 .nav {
   display: flex;
@@ -191,6 +192,10 @@ img {
   color: var(--secondary-text-color);
 }
 /*  ========РАБОТА======== */
+.work .container {
+  padding-top: 94px;
+}
+
 .work-list {
   display: flex;
   justify-content: space-between;
@@ -207,6 +212,8 @@ img {
 /* ======= КОМАНДА ======= */
 .team {
   background: #f5f4fa;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 .team-list {
   display: flex;
@@ -232,6 +239,7 @@ img {
   margin-top: 30px;
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
@@ -268,6 +276,12 @@ img {
   color: var(--reserve-text-color);
 }
 /* ======== ПОРТФОЛИО ========== */
+.portfolio {
+  display: flex;
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .btn {
   display: flex;
   justify-content: center;
