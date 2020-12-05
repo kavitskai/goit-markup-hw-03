@@ -161,7 +161,7 @@ img {
   background-color: var(--accent-text-color);
 }
 /* ========= ПРЕИМУЩЕСТВА ======== */
-.features .container {
+.features {
   padding-top: 94px;
 }
 .features-list {
@@ -192,7 +192,7 @@ img {
   color: var(--secondary-text-color);
 }
 /*  ========РАБОТА======== */
-.work .container {
+.work {
   padding-top: 94px;
   padding-bottom: 94px;
 }
